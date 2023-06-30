@@ -16,8 +16,8 @@ const About = () => {
             </div>
             <div className='about-text'>
             <h2 className='about-title fs-26 ls-1'>About BookQuest</h2>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dignissimos consequuntur vero commodi provident maiores, iusto atque corrupti voluptate vel sequi consectetur unde aliquam corporis saepe animi non, tempora reiciendis molestias sed laudantium dolores. Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita voluptas delectus.</p>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta, possimus inventore eveniet atque voluptatibus repellendus aspernatur illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque modi quas eum!</p>
+            <p className='fs-17'>Welcome to our BookQuest app! This is your go-to destination for discovering and exploring a wide range of books. Whether you're an avid reader, a curious learner, or simply looking for your next literary adventure, our app provides a user-friendly platform to find your perfect book match.</p>
+            <p className='fs-17'>Whether you're seeking fiction, non-fiction, educational resources, or any other type of literature, our BookQuest app is here to help you embark on a journey of literary exploration. Start your book search today and unlock a world of captivating stories, fascinating knowledge, and endless inspiration. Happy reading!</p>
           </div>
         </div>
       </div>

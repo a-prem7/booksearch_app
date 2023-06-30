@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import "./Navbar.css";
-import logoImg from "../../images/book-logo.png";
+import logoImg from "../../images/removed bkg-logo.png";
 import {HiOutlineMenuAlt3} from "react-icons/hi";
 
 
